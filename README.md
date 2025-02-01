@@ -1,134 +1,82 @@
-# DSA-Material
-Resources for studying DSA
-DSA Study Resources
+# DSA Study Resources
 
-Welcome to the DSA Study Resources repository! This collection of resources is designed to help you master Data Structures and Algorithms (DSA) effectively. Whether you're a beginner or preparing for coding interviews, you'll find valuable material here.
+Welcome to the **DSA Study Resources** repository! This collection of resources is designed to help you master **Data Structures and Algorithms (DSA)** effectively. Whether you're a beginner or preparing for coding interviews, you'll find valuable material here.
 
-📌 Table of Contents
+## 📌 Table of Contents
+- [Why Study DSA?](#why-study-dsa)
+- [Learning Path](#learning-path)
+- [Resources](#resources)
+  - [Books](#books)
+  - [Online Courses](#online-courses)
+  - [Practice Platforms](#practice-platforms)
+  - [YouTube Channels](#youtube-channels)
+  - [Cheat Sheets & Notes](#cheat-sheets--notes)
+- [How to Use These Resources?](#how-to-use-these-resources)
+- [Contributing](#contributing)
+- [License](#license)
 
-Why Study DSA?
-
-Learning Path
-
-Resources
-
-Books
-
-Online Courses
-
-Practice Platforms
-
-YouTube Channels
-
-Cheat Sheets & Notes
-
-How to Use These Resources?
-
-Contributing
-
-License
-
-📖 Why Study DSA?
-
+## 📖 Why Study DSA?
 Mastering DSA is crucial for:
+- **Cracking coding interviews** at top tech companies.
+- **Improving problem-solving skills** and analytical thinking.
+- **Building efficient and scalable applications**.
 
-Cracking coding interviews at top tech companies.
+## 🚀 Learning Path
+1. **Start with Basics:** Learn about time complexity and Big-O notation.
+2. **Data Structures:** Arrays, Linked Lists, Stacks, Queues, HashMaps, Trees, Graphs, Heaps.
+3. **Algorithms:** Sorting, Searching, Recursion, Dynamic Programming, Backtracking, Graph Algorithms.
+4. **Practice:** Solve problems on different platforms.
+5. **Advanced Topics:** Bit Manipulation, Trie, Segment Trees.
 
-Improving problem-solving skills and analytical thinking.
+## 📚 Resources
 
-Building efficient and scalable applications.
+### 📖 Books
+- *Introduction to the Algorithms* - Cormen (CLRS)
+- *Algorithm Design Manual* - Steven S. Skiena
+- *Cracking the Coding Interview* - Gayle Laakmann McDowell
+- *Data Structures and Algorithm Analysis in C* - Mark Allen Weiss
 
-🚀 Learning Path
+### 🎓 Online Courses
+- [CS50 by Harvard](https://cs50.harvard.edu/)
+- [Data Structures and Algorithms by Coursera](https://www.coursera.org/specializations/data-structures-algorithms)
+- [Algorithmic Toolbox - UC San Diego (Coursera)](https://www.coursera.org/learn/algorithmic-toolbox)
+- [GeeksforGeeks DSA Course](https://www.geeksforgeeks.org/data-structures/)
 
-Start with Basics: Learn about time complexity and Big-O notation.
+### 💻 Practice Platforms
+- [LeetCode](https://leetcode.com/)
+- [CodeChef](https://www.codechef.com/)
+- [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-algorithms)
+- [CodeForces](https://codeforces.com/)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/)
 
-Data Structures: Arrays, Linked Lists, Stacks, Queues, HashMaps, Trees, Graphs, Heaps.
+### 🎥 YouTube Channels
+- [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
+- [MyCodeSchool](https://www.youtube.com/user/mycodeschool)
+- [GeeksforGeeks](https://www.youtube.com/c/GeeksforGeeksVideos)
+- [Abdul Bari](https://www.youtube.com/c/AbdulBari)
 
-Algorithms: Sorting, Searching, Recursion, Dynamic Programming, Backtracking, Graph Algorithms.
+### 📝 Cheat Sheets & Notes
+- [Big-O Complexity Cheat Sheet](https://www.bigocheatsheet.com/)
+- [GeeksforGeeks DSA Notes](https://www.geeksforgeeks.org/data-structures/)
+- [LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
 
-Practice: Solve problems on different platforms.
+## 🔥 How to Use These Resources?
+- Pick a topic and start learning from **books or courses**.
+- Practice problems on **LeetCode, CodeChef, or other platforms**.
+- Revise concepts using **cheat sheets and notes**.
+- Watch **YouTube tutorials** for better understanding.
+- Build small projects to reinforce learning.
 
-Advanced Topics: Bit Manipulation, Trie, Segment Trees.
-
-📚 Resources
-
-📖 Books
-
-Introduction to the Algorithms - Cormen (CLRS)
-
-Algorithm Design Manual - Steven S. Skiena
-
-Cracking the Coding Interview - Gayle Laakmann McDowell
-
-Data Structures and Algorithm Analysis in C - Mark Allen Weiss
-
-🎓 Online Courses
-
-CS50 by Harvard
-
-Data Structures and Algorithms by Coursera
-
-Algorithmic Toolbox - UC San Diego (Coursera)
-
-GeeksforGeeks DSA Course
-
-💻 Practice Platforms
-
-LeetCode
-
-CodeChef
-
-HackerRank
-
-CodeForces
-
-GeeksForGeeks
-
-🎥 YouTube Channels
-
-freeCodeCamp.org
-
-MyCodeSchool
-
-GeeksforGeeks
-
-Abdul Bari
-
-📝 Cheat Sheets & Notes
-
-Big-O Complexity Cheat Sheet
-
-GeeksforGeeks DSA Notes
-
-LeetCode Patterns
-
-🔥 How to Use These Resources?
-
-Pick a topic and start learning from books or courses.
-
-Practice problems on LeetCode, CodeChef, or other platforms.
-
-Revise concepts using cheat sheets and notes.
-
-Watch YouTube tutorials for better understanding.
-
-Build small projects to reinforce learning.
-
-🤝 Contributing
-
+## 🤝 Contributing
 Feel free to contribute by adding new resources, fixing broken links, or improving the content.
 
-Fork the repository
+1. Fork the repository
+2. Create a new branch (`feature/resource-update`)
+3. Commit your changes
+4. Open a Pull Request
 
-Create a new branch (feature/resource-update)
-
-Commit your changes
-
-Open a Pull Request
-
-📜 License
-
+## 📜 License
 This repository is licensed under the MIT License. You are free to use and distribute the resources as needed.
 
+---
 Happy Learning! 🚀
-
